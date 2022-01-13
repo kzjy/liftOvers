@@ -11,6 +11,7 @@ The main problem that LifTOvers admin faces today is that there is too much admi
     - Twilio backend SMS messaging integration, send/accept/decline requests through SMS messaging
     <br>
     <img src="./imgs/twilio.jpg" />
+    <br>
     - Different user authentication levels: admin, volunteer
     - Proper password storage & encryption using best practices
  * Admin features:
