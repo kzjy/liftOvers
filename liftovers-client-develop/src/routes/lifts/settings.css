@@ -1,0 +1,33 @@
+::-webkit-scrollbar {
+    width: 0px;  /* Remove scrollbar space */
+    background: transparent;  /* Optional: just make scrollbar invisible */
+}
+.edit-modal{
+    width: 50%;
+    position: relative;
+    margin: 0 auto;
+    bottom: 50%;
+    max-height: 100vh;
+    overflow-y: scroll;
+    overflow-y: hidden;
+
+}
+.edit-button{
+    height: auto;
+    margin: 0px auto;
+    min-width: 170px;
+    position: relative;
+    left: 3px;
+}
+.create-request{
+    padding: 15px;
+}
+.create-request-text{
+    width: 300px;
+    font-weight: bold;
+    font-size: 18px;
+    text-align: left;
+}
+#pickup-date{
+    width: 200px;
+}

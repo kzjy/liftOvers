@@ -1,0 +1,30 @@
+.edit-volunteer-container {
+    padding: 20px 30px 20px 30px;
+
+}
+.edit-volunteer-field-button {
+    display: inline;
+    margin-right: 20px;
+}
+.dropdown-menu {
+    width: 100%;
+
+}
+
+.btn-block {
+    background-color: rgb(6, 216, 146);
+    border-color: rgb(6, 216, 146);
+}
+.btn-block:hover {
+    background-color: rgb(6, 216, 146);
+    border-color: rgb(6, 216, 146);
+}
+
+.btn {
+    background-color: rgb(6, 216, 146);
+    border-color: rgb(6, 216, 146);
+}
+.btn:hover {
+    background-color: rgb(6, 216, 146);
+    border-color: rgb(6, 216, 146);
+}

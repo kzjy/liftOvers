@@ -1,0 +1,87 @@
+
+.cancel-button{
+    margin-left: 10px;
+}
+
+.centerbutton{
+    text-align: center;
+}
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+
+.label{
+    margin: 10px;
+    font-weight: 550;
+    color: rgb(78, 78, 78);
+    font-family: 'Open Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 25px;
+}
+
+.info{
+    margin: 10px;
+    font-size: 15px;
+    color: rgb(158, 158, 158);
+    font-family: 'Open Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.edit{
+    position: absolute;
+    right: 5%;
+    margin: 0 auto;
+    height: 40px;
+    background-color: rgba(73, 216, 173, 0.726);
+}
+editField{
+    margin-right: 10px;
+}
+
+.edit-modal{
+    width: 50%;
+    position: relative;
+    margin: 0 auto;
+    bottom: 50%;
+    max-height: 100vh;
+    overflow-y: auto;
+    overflow-y: hidden;
+
+}
+.edit-button-profile{
+    position: relative;
+    margin-left: 10px;
+    height: fit-content;
+    width: fit-content;
+}
+.create-request{
+    padding: 15px;
+}
+.create-request-text{
+    width: 300px;
+    font-weight: bold;
+    font-size: 18px;
+    text-align: left;
+}
+.time{
+    margin-left: 10px;
+}
+
+.settings-header{
+    color:black;
+    margin-top: 15px;
+    height: 35px;
+}
+.settings-field{
+    margin: 15px;
+}
+.settings-field-label{
+    font-weight: bold;
+    color: rgb(94, 94, 94);
+    font-family: 'Open Sans','Courier New', Courier, monospace;
+    font-size: 1.05em;
+}
+
+#change-user-info{
+    min-width: 30%;
+}
